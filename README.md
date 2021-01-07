@@ -10,8 +10,7 @@ following items:
 * 2. In that notebook, an explanation of your regression and an analysis of its accuracy.
 * 3. Standard items in a git repository such as a README.
 
-To enhance my submission, I might compared simple linear regression to
-polynomial regression on this data set
+To enhance my submission, I compared simple linear regression to polynomial regression on this data set.
 
 
 
